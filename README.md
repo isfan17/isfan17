@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am currently an undergraduate information system student at Brawijaya University. Im in a journey of becoming a great android developer.
+I am currently an undergraduate information system student at Brawijaya University. Im in a journey of becoming a great mobile developer.
 
 ## 💻 Tech Stack:
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) 
