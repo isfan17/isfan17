@@ -19,11 +19,3 @@ I am currently an undergraduate information system student at Brawijaya Universi
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isfan-adheltyo) 
-
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=isfan17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=isfan17&theme=tokyonight&hide_border=false)</br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=isfan17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=isfan17&icon=0&color=0)](https://visitcount.itsvg.in)
