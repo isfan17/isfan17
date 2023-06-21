@@ -1,5 +1,5 @@
 ## 💫 About Me:
-I am currently an undergraduate information system student at Brawijaya University. Im in a journey of becoming a great mobile developer.
+I am an undergraduate information system student with a strong interest in developing application solutions that tackle real-world challenges. With a solid foundation in Android app development, I am an adaptable individual ready to contribute to impactful and user-centric projects. I am enthusiastic about utilizing my knowledge and collaborating with teams to create innovative and meaningful applications.
 
 ## 💻 Tech Stack:
 ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639) 
